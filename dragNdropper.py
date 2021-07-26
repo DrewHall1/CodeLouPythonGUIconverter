@@ -16,7 +16,7 @@ def allowed_file(filename):
 @app.route('/', methods=['GET', 'POST'])
 def upload_file():
     print(request)
-    if request.method == 'POST':
+    if request.method == 'POST':   #add a new route for the web call
         #file = request.files['xhr2upload'] # [0]
         file = request.files['image_upload_file']
         print(file.filename)
