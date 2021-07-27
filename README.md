@@ -1,6 +1,6 @@
 # CodeLouPythonGUIconverter
 
-this project was to solve a problem I had at a previous job where our system would only upload documents from borrowers when I was a loan processor that were in a .pdf format, 
+This project was to solve a problem I had at a previous job where our system would only upload documents from borrowers when I was a loan processor that were in a .pdf format, 
 however most people sent things in .jpg so this project will convert the .jpg to a .pdf for you.
 
 The requirements met for the project include:
